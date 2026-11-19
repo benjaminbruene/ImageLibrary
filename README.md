@@ -27,13 +27,13 @@ This ASP.NET Core Razor Pages application allows users to upload images and view
 ## Screenshots
 
 ### Upload Form
-![Upload Form](Screenshots/UploadImage.png)
+![Upload Form](screenshots/UploadImage.png)
 
 ### File Size Validation
-![File Size Error](Screenshots/FileSizeError.png)
+![File Size Error](screenshots/FileSizeError.png)
 
 ### Image Gallery
-![Image Gallery](Screenshots/Gallery.png)
+![Image Gallery](screenshots/Gallery.png)
 
 ## How to Run
 
